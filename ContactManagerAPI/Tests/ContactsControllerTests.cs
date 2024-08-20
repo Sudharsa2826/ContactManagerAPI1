@@ -5,7 +5,6 @@ using Xunit;
 using Moq;
 using ContactManagerAPI.Controllers;
 using ContactManagerAPI.Data;
-using ContactManagerAPI.Models;
 
 namespace ContactManagerAPITests
 {

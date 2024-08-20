@@ -1,8 +1,5 @@
-﻿using ContactManagerAPI.Models;
-using ContactManagerAPI.Data;
+﻿using ContactManagerAPI.Data;
 using Microsoft.EntityFrameworkCore;
-using System.Collections.Generic;
-using System.Threading.Tasks;
 
 namespace ContactManagerAPI.Services
 {

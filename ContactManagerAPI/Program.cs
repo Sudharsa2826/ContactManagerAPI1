@@ -39,7 +39,7 @@ builder.Services.AddAuthentication(options =>
         ValidateIssuerSigningKey = true,
         ValidIssuer = builder.Configuration["Jwt:Issuer"],
         ValidAudience = builder.Configuration["Jwt:Audience"],
-        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["Jwt:Key"]))
+        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["Jwt:Key"])) // Fix here
     };
 });
 
@@ -67,22 +67,19 @@ var app = builder.Build();
 if (app.Environment.IsDevelopment())
 {
     // Enable Swagger middleware only in development (optional, remove if not using Swagger)
-     app.UseSwagger();
-     app.UseSwaggerUI();
+    app.UseSwagger();
+    app.UseSwaggerUI();
 }
 
-builder.Services.AddEndpointsApiExplorer();
-
-// Configure the HTTP request pipeline.
+// Configure the HTTP request pipeline
 app.UseHttpsRedirection();
 
 // Use CORS
-app.UseCors(policy => policy.AllowAnyHeader().AllowAnyMethod().AllowAnyOrigin());
+app.UseCors("AllowAll");
 
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();
 
 app.Run();
-
-

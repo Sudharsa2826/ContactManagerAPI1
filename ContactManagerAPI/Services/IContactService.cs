@@ -1,8 +1,4 @@
-﻿using ContactManagerAPI.Models;
-using System.Collections.Generic;
-using System.Threading.Tasks;
-
-namespace ContactManagerAPI.Services
+﻿namespace ContactManagerAPI.Services
 {
     public interface IContactService
     {

@@ -50,8 +50,4 @@ dotnet run
 - Ensure that the JWT authentication is working by sending requests with the token.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.# ContactManagerAPI
-# Contactly
-"# Contactly" 
-"# Contactly" 
-"# Contactly" 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

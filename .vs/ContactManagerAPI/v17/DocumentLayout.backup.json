@@ -1,0 +1,505 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\contact-manager-angular\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:contact-manager-angular\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\contact-manager-angular\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:contact-manager-angular\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\contact-manager-angular\\src\\app\\app.routes.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:contact-manager-angular\\src\\app\\app.routes.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\contact-manager-angular\\src\\app\\app.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:contact-manager-angular\\src\\app\\app.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\contact-manager-angular\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:contact-manager-angular\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\contact-manager-angular\\src\\app\\components\\contact-list\\contact-list.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:contact-manager-angular\\src\\app\\components\\contact-list\\contact-list.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\contact-manager-angular\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:contact-manager-angular\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\contact-manager-angular\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:contact-manager-angular\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\contact-manager-angular\\src\\app\\components\\contact-list\\contact-list.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:contact-manager-angular\\src\\app\\components\\contact-list\\contact-list.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\contact-manager-angular\\src\\app\\components\\contact-list\\contact-list.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:contact-manager-angular\\src\\app\\components\\contact-list\\contact-list.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\contact-manager-angular\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:contact-manager-angular\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\contact-manager-angular\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:contact-manager-angular\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\contact-manager-angular\\src\\app\\components\\header\\header.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:contact-manager-angular\\src\\app\\components\\header\\header.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\contact-manager-angular\\src\\app\\components\\contact-form\\contact-form.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:contact-manager-angular\\src\\app\\components\\contact-form\\contact-form.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\contact-manager-angular\\src\\app\\components\\contact-form\\contact-form.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:contact-manager-angular\\src\\app\\components\\contact-form\\contact-form.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\contact-manager-angular\\src\\app\\components\\header\\header.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:contact-manager-angular\\src\\app\\components\\header\\header.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B96E1F02-61CF-4D2E-99FF-574EC8E85E32}|ContactManagerAPI\\ContactManagerAPI.csproj|c:\\users\\shibi\\source\\repos\\contactmanagerapi\\contactmanagerapi\\services\\contactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B96E1F02-61CF-4D2E-99FF-574EC8E85E32}|ContactManagerAPI\\ContactManagerAPI.csproj|solutionrelative:contactmanagerapi\\services\\contactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B96E1F02-61CF-4D2E-99FF-574EC8E85E32}|ContactManagerAPI\\ContactManagerAPI.csproj|c:\\users\\shibi\\source\\repos\\contactmanagerapi\\contactmanagerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B96E1F02-61CF-4D2E-99FF-574EC8E85E32}|ContactManagerAPI\\ContactManagerAPI.csproj|solutionrelative:contactmanagerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B96E1F02-61CF-4D2E-99FF-574EC8E85E32}|ContactManagerAPI\\ContactManagerAPI.csproj|c:\\users\\shibi\\source\\repos\\contactmanagerapi\\contactmanagerapi\\tests\\contactscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B96E1F02-61CF-4D2E-99FF-574EC8E85E32}|ContactManagerAPI\\ContactManagerAPI.csproj|solutionrelative:contactmanagerapi\\tests\\contactscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B96E1F02-61CF-4D2E-99FF-574EC8E85E32}|ContactManagerAPI\\ContactManagerAPI.csproj|c:\\users\\shibi\\source\\repos\\contactmanagerapi\\contactmanagerapi\\data\\contactdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B96E1F02-61CF-4D2E-99FF-574EC8E85E32}|ContactManagerAPI\\ContactManagerAPI.csproj|solutionrelative:contactmanagerapi\\data\\contactdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B96E1F02-61CF-4D2E-99FF-574EC8E85E32}|ContactManagerAPI\\ContactManagerAPI.csproj|c:\\users\\shibi\\source\\repos\\contactmanagerapi\\contactmanagerapi\\migrations\\contactdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B96E1F02-61CF-4D2E-99FF-574EC8E85E32}|ContactManagerAPI\\ContactManagerAPI.csproj|solutionrelative:contactmanagerapi\\migrations\\contactdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B96E1F02-61CF-4D2E-99FF-574EC8E85E32}|ContactManagerAPI\\ContactManagerAPI.csproj|c:\\users\\shibi\\source\\repos\\contactmanagerapi\\contactmanagerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B96E1F02-61CF-4D2E-99FF-574EC8E85E32}|ContactManagerAPI\\ContactManagerAPI.csproj|solutionrelative:contactmanagerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B96E1F02-61CF-4D2E-99FF-574EC8E85E32}|ContactManagerAPI\\ContactManagerAPI.csproj|c:\\users\\shibi\\source\\repos\\contactmanagerapi\\contactmanagerapi\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B96E1F02-61CF-4D2E-99FF-574EC8E85E32}|ContactManagerAPI\\ContactManagerAPI.csproj|solutionrelative:contactmanagerapi\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B96E1F02-61CF-4D2E-99FF-574EC8E85E32}|ContactManagerAPI\\ContactManagerAPI.csproj|c:\\users\\shibi\\source\\repos\\contactmanagerapi\\contactmanagerapi\\services\\icontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B96E1F02-61CF-4D2E-99FF-574EC8E85E32}|ContactManagerAPI\\ContactManagerAPI.csproj|solutionrelative:contactmanagerapi\\services\\icontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B96E1F02-61CF-4D2E-99FF-574EC8E85E32}|ContactManagerAPI\\ContactManagerAPI.csproj|c:\\users\\shibi\\source\\repos\\contactmanagerapi\\contactmanagerapi\\services\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B96E1F02-61CF-4D2E-99FF-574EC8E85E32}|ContactManagerAPI\\ContactManagerAPI.csproj|solutionrelative:contactmanagerapi\\services\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B96E1F02-61CF-4D2E-99FF-574EC8E85E32}|ContactManagerAPI\\ContactManagerAPI.csproj|c:\\users\\shibi\\source\\repos\\contactmanagerapi\\contactmanagerapi\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B96E1F02-61CF-4D2E-99FF-574EC8E85E32}|ContactManagerAPI\\ContactManagerAPI.csproj|solutionrelative:contactmanagerapi\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B96E1F02-61CF-4D2E-99FF-574EC8E85E32}|ContactManagerAPI\\ContactManagerAPI.csproj|c:\\users\\shibi\\source\\repos\\contactmanagerapi\\contactmanagerapi\\migrations\\20240817062043_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B96E1F02-61CF-4D2E-99FF-574EC8E85E32}|ContactManagerAPI\\ContactManagerAPI.csproj|solutionrelative:contactmanagerapi\\migrations\\20240817062043_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B96E1F02-61CF-4D2E-99FF-574EC8E85E32}|ContactManagerAPI\\ContactManagerAPI.csproj|c:\\users\\shibi\\source\\repos\\contactmanagerapi\\contactmanagerapi\\logs\\log-20240816.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B96E1F02-61CF-4D2E-99FF-574EC8E85E32}|ContactManagerAPI\\ContactManagerAPI.csproj|solutionrelative:contactmanagerapi\\logs\\log-20240816.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B96E1F02-61CF-4D2E-99FF-574EC8E85E32}|ContactManagerAPI\\ContactManagerAPI.csproj|c:\\users\\shibi\\source\\repos\\contactmanagerapi\\contactmanagerapi\\contactmanagerapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{B96E1F02-61CF-4D2E-99FF-574EC8E85E32}|ContactManagerAPI\\ContactManagerAPI.csproj|solutionrelative:contactmanagerapi\\contactmanagerapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.config.ts",
+              "DocumentMoniker": "C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\contact-manager-angular\\src\\app\\app.config.ts",
+              "RelativeDocumentMoniker": "contact-manager-angular\\src\\app\\app.config.ts",
+              "ToolTip": "C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\contact-manager-angular\\src\\app\\app.config.ts*",
+              "RelativeToolTip": "contact-manager-angular\\src\\app\\app.config.ts*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-20T15:09:24.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "app.component.css",
+              "DocumentMoniker": "C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\contact-manager-angular\\src\\app\\app.component.css",
+              "RelativeDocumentMoniker": "contact-manager-angular\\src\\app\\app.component.css",
+              "ToolTip": "C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\contact-manager-angular\\src\\app\\app.component.css",
+              "RelativeToolTip": "contact-manager-angular\\src\\app\\app.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-20T15:01:07.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "contact-list.component.html",
+              "DocumentMoniker": "C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\contact-manager-angular\\src\\app\\components\\contact-list\\contact-list.component.html",
+              "RelativeDocumentMoniker": "contact-manager-angular\\src\\app\\components\\contact-list\\contact-list.component.html",
+              "ToolTip": "C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\contact-manager-angular\\src\\app\\components\\contact-list\\contact-list.component.html",
+              "RelativeToolTip": "contact-manager-angular\\src\\app\\components\\contact-list\\contact-list.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-20T10:45:10.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\contact-manager-angular\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "contact-manager-angular\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\contact-manager-angular\\src\\app\\app.module.ts",
+              "RelativeToolTip": "contact-manager-angular\\src\\app\\app.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-20T10:40:39.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\contact-manager-angular\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "contact-manager-angular\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\contact-manager-angular\\src\\app\\app.component.ts",
+              "RelativeToolTip": "contact-manager-angular\\src\\app\\app.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-20T10:40:27.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.routes.ts",
+              "DocumentMoniker": "C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\contact-manager-angular\\src\\app\\app.routes.ts",
+              "RelativeDocumentMoniker": "contact-manager-angular\\src\\app\\app.routes.ts",
+              "ToolTip": "C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\contact-manager-angular\\src\\app\\app.routes.ts",
+              "RelativeToolTip": "contact-manager-angular\\src\\app\\app.routes.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-20T10:40:31.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\contact-manager-angular\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "contact-manager-angular\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\contact-manager-angular\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "contact-manager-angular\\src\\app\\app-routing.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-20T10:23:48.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.ts",
+              "DocumentMoniker": "C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\contact-manager-angular\\src\\main.ts",
+              "RelativeDocumentMoniker": "contact-manager-angular\\src\\main.ts",
+              "ToolTip": "C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\contact-manager-angular\\src\\main.ts",
+              "RelativeToolTip": "contact-manager-angular\\src\\main.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-20T10:42:18.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "contact-list.component.ts",
+              "DocumentMoniker": "C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\contact-manager-angular\\src\\app\\components\\contact-list\\contact-list.component.ts",
+              "RelativeDocumentMoniker": "contact-manager-angular\\src\\app\\components\\contact-list\\contact-list.component.ts",
+              "ToolTip": "C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\contact-manager-angular\\src\\app\\components\\contact-list\\contact-list.component.ts",
+              "RelativeToolTip": "contact-manager-angular\\src\\app\\components\\contact-list\\contact-list.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-20T10:44:43.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "contact-list.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\contact-manager-angular\\src\\app\\components\\contact-list\\contact-list.component.spec.ts",
+              "RelativeDocumentMoniker": "contact-manager-angular\\src\\app\\components\\contact-list\\contact-list.component.spec.ts",
+              "ToolTip": "C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\contact-manager-angular\\src\\app\\components\\contact-list\\contact-list.component.spec.ts",
+              "RelativeToolTip": "contact-manager-angular\\src\\app\\components\\contact-list\\contact-list.component.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-20T10:44:40.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\contact-manager-angular\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "contact-manager-angular\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\contact-manager-angular\\src\\app\\app.component.html",
+              "RelativeToolTip": "contact-manager-angular\\src\\app\\app.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-20T10:42:57.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "header.component.html",
+              "DocumentMoniker": "C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\contact-manager-angular\\src\\app\\components\\header\\header.component.html",
+              "RelativeDocumentMoniker": "contact-manager-angular\\src\\app\\components\\header\\header.component.html",
+              "ToolTip": "C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\contact-manager-angular\\src\\app\\components\\header\\header.component.html",
+              "RelativeToolTip": "contact-manager-angular\\src\\app\\components\\header\\header.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-20T10:37:16.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\contact-manager-angular\\src\\index.html",
+              "RelativeDocumentMoniker": "contact-manager-angular\\src\\index.html",
+              "ToolTip": "C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\contact-manager-angular\\src\\index.html",
+              "RelativeToolTip": "contact-manager-angular\\src\\index.html",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-20T10:33:30.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "contact-form.component.html",
+              "DocumentMoniker": "C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\contact-manager-angular\\src\\app\\components\\contact-form\\contact-form.component.html",
+              "RelativeDocumentMoniker": "contact-manager-angular\\src\\app\\components\\contact-form\\contact-form.component.html",
+              "ToolTip": "C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\contact-manager-angular\\src\\app\\components\\contact-form\\contact-form.component.html",
+              "RelativeToolTip": "contact-manager-angular\\src\\app\\components\\contact-form\\contact-form.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-20T10:37:01.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "contact-form.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\contact-manager-angular\\src\\app\\components\\contact-form\\contact-form.component.spec.ts",
+              "RelativeDocumentMoniker": "contact-manager-angular\\src\\app\\components\\contact-form\\contact-form.component.spec.ts",
+              "ToolTip": "C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\contact-manager-angular\\src\\app\\components\\contact-form\\contact-form.component.spec.ts",
+              "RelativeToolTip": "contact-manager-angular\\src\\app\\components\\contact-form\\contact-form.component.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-20T10:36:53.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "header.component.ts",
+              "DocumentMoniker": "C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\contact-manager-angular\\src\\app\\components\\header\\header.component.ts",
+              "RelativeDocumentMoniker": "contact-manager-angular\\src\\app\\components\\header\\header.component.ts",
+              "ToolTip": "C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\contact-manager-angular\\src\\app\\components\\header\\header.component.ts",
+              "RelativeToolTip": "contact-manager-angular\\src\\app\\components\\header\\header.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-20T10:29:08.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ContactService.cs",
+              "DocumentMoniker": "C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\ContactManagerAPI\\Services\\ContactService.cs",
+              "RelativeDocumentMoniker": "ContactManagerAPI\\Services\\ContactService.cs",
+              "ToolTip": "C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\ContactManagerAPI\\Services\\ContactService.cs",
+              "RelativeToolTip": "ContactManagerAPI\\Services\\ContactService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T07:28:54.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\ContactManagerAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ContactManagerAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\ContactManagerAPI\\appsettings.json",
+              "RelativeToolTip": "ContactManagerAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-20T06:30:22.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ContactsControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\ContactManagerAPI\\Tests\\ContactsControllerTests.cs",
+              "RelativeDocumentMoniker": "ContactManagerAPI\\Tests\\ContactsControllerTests.cs",
+              "ToolTip": "C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\ContactManagerAPI\\Tests\\ContactsControllerTests.cs",
+              "RelativeToolTip": "ContactManagerAPI\\Tests\\ContactsControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T16:15:37.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ContactDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\ContactManagerAPI\\Data\\ContactDbContext.cs",
+              "RelativeDocumentMoniker": "ContactManagerAPI\\Data\\ContactDbContext.cs",
+              "ToolTip": "C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\ContactManagerAPI\\Data\\ContactDbContext.cs",
+              "RelativeToolTip": "ContactManagerAPI\\Data\\ContactDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T16:18:31.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ContactDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\ContactManagerAPI\\Migrations\\ContactDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ContactManagerAPI\\Migrations\\ContactDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\ContactManagerAPI\\Migrations\\ContactDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ContactManagerAPI\\Migrations\\ContactDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T07:28:34.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\ContactManagerAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ContactManagerAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\ContactManagerAPI\\Program.cs",
+              "RelativeToolTip": "ContactManagerAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T07:17:41.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\ContactManagerAPI\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "ContactManagerAPI\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\ContactManagerAPI\\Models\\Contact.cs",
+              "RelativeToolTip": "ContactManagerAPI\\Models\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T07:24:50.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IContactService.cs",
+              "DocumentMoniker": "C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\ContactManagerAPI\\Services\\IContactService.cs",
+              "RelativeDocumentMoniker": "ContactManagerAPI\\Services\\IContactService.cs",
+              "ToolTip": "C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\ContactManagerAPI\\Services\\IContactService.cs",
+              "RelativeToolTip": "ContactManagerAPI\\Services\\IContactService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T07:29:23.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "JwtTokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\ContactManagerAPI\\Services\\JwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "ContactManagerAPI\\Services\\JwtTokenGenerator.cs",
+              "ToolTip": "C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\ContactManagerAPI\\Services\\JwtTokenGenerator.cs",
+              "RelativeToolTip": "ContactManagerAPI\\Services\\JwtTokenGenerator.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T07:29:41.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\ContactManagerAPI\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "ContactManagerAPI\\Controllers\\ContactsController.cs",
+              "ToolTip": "C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\ContactManagerAPI\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "ContactManagerAPI\\Controllers\\ContactsController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T16:18:03.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20240817062043_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\ContactManagerAPI\\Migrations\\20240817062043_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ContactManagerAPI\\Migrations\\20240817062043_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\ContactManagerAPI\\Migrations\\20240817062043_InitialCreate.cs",
+              "RelativeToolTip": "ContactManagerAPI\\Migrations\\20240817062043_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T07:28:29.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "log-20240816.txt",
+              "DocumentMoniker": "C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\ContactManagerAPI\\logs\\log-20240816.txt",
+              "RelativeDocumentMoniker": "ContactManagerAPI\\logs\\log-20240816.txt",
+              "ToolTip": "C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\ContactManagerAPI\\logs\\log-20240816.txt",
+              "RelativeToolTip": "ContactManagerAPI\\logs\\log-20240816.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-20T07:28:26.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ContactManagerAPI.http",
+              "DocumentMoniker": "C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\ContactManagerAPI\\ContactManagerAPI.http",
+              "RelativeDocumentMoniker": "ContactManagerAPI\\ContactManagerAPI.http",
+              "ToolTip": "C:\\Users\\shibi\\source\\repos\\ContactManagerAPI\\ContactManagerAPI\\ContactManagerAPI.http",
+              "RelativeToolTip": "ContactManagerAPI\\ContactManagerAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-20T06:30:17.427Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
